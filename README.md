@@ -14,4 +14,4 @@ npm run dev
 http://localhost:3000
 ```
 ## Reference
-[Go to Teisume](https://teisume.blogspot.com/)
+[Go to Teisume](https://teisume.blogspot.com/2024/03/material-ui-nextjs-part1-getting-started.html)
